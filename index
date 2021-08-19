@@ -11,7 +11,7 @@
 </header>
 	<figure>
 		<img src="https://btramme0.github.io/web115/images/intothewedding.jpg" width="300" height="300" alt=""/>
-		 <figcaption>I'm about to head out to my mother's second wedding</figcaption>
+			<figcaption>I'm about to head out to my mother's second wedding</figcaption>
 	 </figure>
 	<ul>
 		<li><strong>Personal background</strong>: I was born and raised in Charlotte. In my younger years I traveled all over the country before settling back home.</li>
@@ -23,7 +23,7 @@
 		<ol>
 			<li>WEB-115: Web Markup and Scripting - This course is part of my degree so I want to get credit for it. Also I'm very interested in increasing my knowledge in the field so I'm very happy for the opportunity to learn.</li>
 			<li>WEB-120: Intro to Internet Multimedia - I'm also taking this course to get the credit for my degree and personal interest.</li>
-    	<li>WEB-210: Web Design - I'm taking this course out of intrest from being recommneded it from a trusted source.</li>
+    			<li>WEB-210: Web Design - I'm taking this course out of intrest from being recommneded it from a trusted source.</li>
 		</ol>
 	</ul>
 	<ul>
