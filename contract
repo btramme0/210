@@ -1,0 +1,25 @@
+<!Doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" type="text/css" href="styles/default.css">
+	<title>B. Nick Trammell WEB-210 Course Contract</title>
+</head>
+<body>
+	<header>
+		<h1>Brandon "Nick" Trammell WEB-210</h1>
+	</header>
+	<main>
+		<h2>Course Contract</h2>
+		<p>I, <a href="https://btramme0.github.io/web210/">Brandon N. Trammell</a> agree to abide by the terms in my Fall 2021 WEB-115-N801 with my instructor, D.I. von Briesen.</p>
+		<p>I understand that all work that I do on my school and personal websites will be publicly available to the world. I will not put information there that is inappropriate for schoolwork, or that I wish to keep private.</p>
+		<p>I also understand that it is my work that counts for attendance, not logins or showing up for class. As such, failure to turn in assignments may show as an absences.,</p>
+		<p>Signed: <em>Brandon N. Trammell</em>, 18 August 2021.</p>
+	</main>
+	<footer>
+		<br>
+		<p>Page built by The Center Page Inc.</p>
+		<a href="https://validator.w3.org/nu/?doc=https%3A%2F%2Fbtramme0.github.io%2Fweb115%2Fcontract" style="text-decoration:none;">Validate html</a>
+		<a href="https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fbtramme0.github.io%2Fweb115%2Fcontract&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en" style="text-decoration:none;">Validate CSS</a>
+	</footer>
+</body>
