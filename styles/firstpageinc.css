@@ -1,0 +1,68 @@
+.header
+{
+	font-size: 56px;
+	text-align: center;
+	color: #805B5A;
+	font-family: Blippo, fantasy;
+}
+
+.navbar
+{
+	background-color: #2F4F4F;
+	overflow: hidden;
+	border-width: 10px 0;
+	border-style: solid;
+	border-color: #66CDAA;
+}
+
+.navbar a
+{
+	color: #4A0C00;
+	float: left;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 45px;
+}
+
+h1
+{
+	font-family: Blippo, fantasy;
+	color: #805B5A;
+}
+
+h2
+{
+	font-family: Blippo, fantasy;
+	color: #8E8E9A;
+}
+
+body
+{
+	font-size: large;
+	color: #6E5B53; 
+	background-color: #E8DCB8;
+	font-family: Luminari, fantasy;
+	text-align: center;
+}
+
+p
+{
+	margin-left: 25px;
+	margin-right: 25px;
+}
+
+q
+{
+	font-style: italic; 
+}
+
+footer
+{
+	text-align: center;
+}
+
+footer a
+{
+	color:  #4A0C00;
+}
