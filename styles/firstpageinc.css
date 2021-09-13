@@ -46,6 +46,12 @@ body
 	text-align: center;
 }
 
+main a
+{
+	font-family: Blippo, fantasy;
+	color: #805B5A;
+}
+
 p
 {
 	margin-left: 25px;
